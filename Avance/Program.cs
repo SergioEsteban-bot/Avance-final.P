@@ -83,7 +83,7 @@ namespace Avance_Final
                     Console.WriteLine("\nNingún sensor activado. Actualizando...");
 
                 }
-
+Thread.Sleep(3000);
             } while (s1 <= 93 && s2 <= 93 && s3 <= 93 && s4 <= 93);
 
             if (s1 > 93 || s2 > 93 || s3 > 93 || s4 > 93)
@@ -224,5 +224,6 @@ namespace Avance_Final
         }
     }
 }
+
 
 
