@@ -1,0 +1,8 @@
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\bin\Debug\Avance.exe.config
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\bin\Debug\Avance.exe
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\bin\Debug\Avance.pdb
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\obj\Debug\Avance.csproj.AssemblyReference.cache
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\obj\Debug\Avance.csproj.CoreCompileInputs.cache
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\obj\Debug\Avance.exe
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\obj\Debug\Avance.pdb
+C:\Users\UCLABRED17\Documents\Semana 8 Sergio\Semana 9 Practica\Avance T3\Avance\obj\Debug\Avance.exe.config
